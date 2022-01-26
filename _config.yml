@@ -3,7 +3,7 @@ title: IITH
 subtitle: SUZUKI
 email: youremailaddress@gmail.com
 description: Maximizing Visibility, Speed, Intensity and Productivity of Suzuki R&D through Broad Collaborations between Suzuki and IITH
-baseurl: "/suziki" # the subpath of your site, e.g. /blog
+baseurl: "/suzuki" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Academic Block c, IITH,
