@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 
-<p> Establishing Suzuki's R&D Headquarter in India at IIT Hyderabad</p>
+<p> Establishing XYZ's R&D Headquarter in India at IIT Hyderabad</p>
 </div>
 </section>
 </div>

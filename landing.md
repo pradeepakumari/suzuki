@@ -7,26 +7,26 @@ description:
 nav-menu: true
 ---
 <!--<div class="6u$ 12u$(small)">
-<h3>Remote Office for Suzuki Motor Corporation</h3>
+<h3>Remote Office for XYZ Motor Corporation</h3>
 		<ul>
-			<li>Work and meeting space for Suzuki executive and engineers</li>
-			<li>Interaction space for small events and casual Suzuki-IITH interactions</li>
+			<li>Work and meeting space for XYZ executive and engineers</li>
+			<li>Interaction space for small events and casual XYZ-IITH interactions</li>
 		</ul>
 		<h3>State of Art Research Lab and Garage for R&D Collaboration</h3>
 		<ul>
-			<li>Base camp Suzuki-IITH R&D Collaboration</li>
+			<li>Base camp XYZ-IITH R&D Collaboration</li>
 			<li>Security for storing the project properties (NDA documents,eqipment and test cars)</li>
 			<li>Exhibition space of State-of-Art technology</li>
 		</ul>
 		<h3>Full time Staffs for Centre Operation and Collaboration Facilitation</h3>
 		<ul>
-			<li>Helping Suzuki for R&D project managements, Language translations and Recruitment</li>
+			<li>Helping XYZ for R&D project managements, Language translations and Recruitment</li>
 			<li>Planning and coordination the centre activity</li>
 			<li>Maintaining the center facilities (Office,Research lab,Garage)</li>
 		</ul>
 		<h3>Faculties in charge for Collaboration Facilitation</h3>
 		<ul>
-			<li>Raising between Suzuki and IITH</li>
+			<li>Raising between XYZ and IITH</li>
 		</ul>
 </div>-->
 <!-- Main -->
@@ -36,26 +36,26 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<!--<header class="major">-->
-		<h3>Remote Office for Suzuki Motor Corporation</h3>
+		<h3>Remote Office for XYZ Motor Corporation</h3>
 		<ul>
-			<li>Work and meeting space for Suzuki executive and engineers</li>
-			<li>Interaction space for small events and casual Suzuki-IITH interactions</li>
+			<li>Work and meeting space for XYZ executive and engineers</li>
+			<li>Interaction space for small events and casual XYZ-IITH interactions</li>
 		</ul>
 		<h3>State of Art Research Lab and Garage for R&D Collaboration</h3>
 		<ul>
-			<li>Base camp Suzuki-IITH R&D Collaboration</li>
+			<li>Base camp XYZ-IITH R&D Collaboration</li>
 			<li>Security for storing the project properties (NDA documents,eqipment and test cars)</li>
 			<li>Exhibition space of State-of-Art technology</li>
 		</ul>
 		<h3>Full time Staffs for Centre Operation and Collaboration Facilitation</h3>
 		<ul>
-			<li>Helping Suzuki for R&D project managements, Language translations and Recruitment</li>
+			<li>Helping XYZ for R&D project managements, Language translations and Recruitment</li>
 			<li>Planning and coordination the centre activity</li>
 			<li>Maintaining the center facilities (Office,Research lab,Garage)</li>
 		</ul>
 		<h3>Faculties in charge for Collaboration Facilitation</h3>
 		<ul>
-			<li>Raising between Suzuki and IITH</li>
+			<li>Raising between XYZ and IITH</li>
 		</ul>
 		<!--	<h2>Sed amet aliquam</h2>-->
 		<!--</header>-->

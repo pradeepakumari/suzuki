@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'SUZUKI Innovation Centre'
+landing-title: 'XYZ Innovation Centre'
 description: null
 image: null
 author: null

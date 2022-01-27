@@ -1,8 +1,8 @@
 # site settings
 title: IITH
-subtitle: SUZUKI
+#subtitle: SUZUKI
 email: youremailaddress@gmail.com
-description: Maximizing Visibility, Speed, Intensity and Productivity of Suzuki R&D through Broad Collaborations between Suzuki and IITH
+description: Maximizing Visibility, Speed, Intensity and Productivity of XYZ R&D through Broad Collaborations between XYZ and IITH
 baseurl: "/xyz" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
